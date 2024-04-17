@@ -1,8 +1,8 @@
-InstantRamenHub
+#InstantRamenHub
 
 Welcome to InstantRamenHub, a project designed to explore and manage a collection of instant ramen varieties from around the world. Whether you're a ramen aficionado, a flavor connoisseur, or simply curious about the diverse world of instant noodles, InstantRamenHub is your go-to resource.
 
-Features
+#Features
 
 Discover Ramen Varieties: Explore an extensive collection of instant ramen flavors, brands, and types.
 View Ramen Details: Get detailed information about each ramen variety, including flavor profiles, country of origin, spice levels, and more.
@@ -10,11 +10,11 @@ Contribute: Have a favorite ramen brand or a unique ramen discovery? Contribute 
 API Access: Access ramen data programmatically via our RESTful API, allowing seamless integration with your own projects or applications.
 Getting Started
 
-Prerequisites
+#Prerequisites
 Java Development Kit (JDK) 11 or later
 Maven or Gradle for dependency management
 MongoDB (local or cloud-based) for data storage
-Installation
+#Installation
 Clone the repository:
 bash
 Copy code
