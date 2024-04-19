@@ -1,7 +1,7 @@
 package com.example.instantRamenHub.models;
 
 
-// This wil probably be changed....
+// This will probably be changed....
 
 
 public enum typeOfNoodle {
