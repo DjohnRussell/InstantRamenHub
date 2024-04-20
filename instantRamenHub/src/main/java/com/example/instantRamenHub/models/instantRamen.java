@@ -4,8 +4,8 @@ import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-// using annotation here sice we use lombok, which mean i do not need to to make constructors, getters and setters.
-// since that in the lombok....
+// using annotation (@Data)here since we use lombok, which means we do not need to make constructors, getters and setters.
+// since lombok does it for us (remove boilerplate code)....
 @Data
 @Document
 public class instantRamen {
