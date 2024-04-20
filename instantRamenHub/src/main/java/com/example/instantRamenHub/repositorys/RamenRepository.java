@@ -1,4 +1,4 @@
-package com.example.instantRamenHub;
+package com.example.instantRamenHub.repositorys;
 
 import com.example.instantRamenHub.models.instantRamen;
 import org.springframework.data.mongodb.repository.MongoRepository;
