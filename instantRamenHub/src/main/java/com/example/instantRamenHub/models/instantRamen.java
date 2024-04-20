@@ -17,4 +17,13 @@ public class instantRamen {
     private String country;
     private String producer;
     private String picURL;
+
+    public instantRamen(String name, String flavor, com.example.instantRamenHub.models.typeOfNoodle typeOfNoodle, String country, String producer, String picURL) {
+        this.name = name;
+        this.flavor = flavor;
+        this.typeOfNoodle = typeOfNoodle;
+        this.country = country;
+        this.producer = producer;
+        this.picURL = picURL;
+    }
 }
